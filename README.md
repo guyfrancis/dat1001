@@ -1,1 +1,1 @@
-This repository contains Jupyter Notebooks and associated files for an introductory data science course
+This repository contains Jupyter Notebooks and associated files for an introductory data science course, DAT 1001, at the Community College of Denver, part of the Colorado Community College System. If you have any questions, please contact guy.francis@ccd.edu.
